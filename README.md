@@ -1,4 +1,4 @@
-# fullcycle-challenge-01
+# Full Cycle Challenge 01
 A docker challenge to log "Full Cycle Rocks!!" in go language
 
 ## Link to access image
